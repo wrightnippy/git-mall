@@ -1,4 +1,4 @@
 import {
-  to = {aws_iam_jeff.lb}
+  to = [aws_iam_user.jeff]
   id = "jeff"
 }
